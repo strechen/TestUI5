@@ -1,0 +1,14 @@
+{
+	"Type": "sap.ui.core.mvc.JSONView",
+	"controllerName": "TestUI5.TestUI5.controller.View1",
+	"content": [{
+		"Type": "sap.m.App",
+		"id": "app",
+		"pages": [{
+			"Type": "sap.m.Page",
+			"id": "page",
+			"title": "{i18n>title}",
+			"content": []
+		}]
+	}]
+}
